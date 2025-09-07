@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About Me
 - 💼 **Main Role**: Medical AI Researcher (Medical Informatics)
-- 💼 **Side Role**: Lab Director at ModuLabs Medical AI LAB
+- 💼 **Side Role**: Lab Leader at ModuLabs Medical AI LAB
 - 💼 **Previous Role**: RN (Registered Nurse), Research Nurse, Clinical Trial DMA(DBA)
 - 🎓 **Education**: Nursing BS + MBA
 - 🔬 **Current**: Medical AI Research at University (4+ years)
