@@ -39,7 +39,7 @@ Research Nurse in Gynecology oncology (8 years) → Clinical Trial DBA (1.5 year
 - 📊 **Clinical Data Analysis**
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujungleeml&show_icons=true&theme=radical)
 
 ---
 *"Building a better world at the intersection of healthcare and AI"* ✨
