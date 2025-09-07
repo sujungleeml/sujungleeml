@@ -1,4 +1,48 @@
-## Hi there 👋
+# Hi there! I'm Sujung Lee, Medical AI Researcher 👩‍⚕️🤖
+
+> *"Professional pivoter who believes anything is possible. My career goal is happiness, and my vision is solving healthcare resource inefficiencies and imbalances through technology."*
+
+## 🧑‍💻 About Me
+- 💼 **Main Role**: Medical AI Researcher (Medical Informatics)
+- 💼 **Side Role**: Lab Director at ModuLabs Medical AI LAB
+- 💼 **Previous Role**: RN (Registered Nurse), Research Nurse, Clinical Trial DMA(DBA)
+- 🎓 **Education**: Nursing BS + MBA
+- 🔬 **Current**: Medical AI Research at University (4+ years)
+- 📚 **PhD**: Will pursue when I feel like it ✨
+- 🧬 **MBTI**: ENTJ
+
+## 💼 Career Journey
+```
+Research Nurse in Gynecology oncology (8 years) → Clinical Trial DBA (1.5 years) → Medical AI Researcher (4+ years)
+```
+
+## 🔧 What I Do
+- 🏥 **Medical AI R&D**: From data engineering to AI modeling + Context Engineering (LLMs)
+- 📋 **Project Management**: Leading research projects
+- 📝 **Proposal Writing**: Grant applications and project planning
+- 🎓 **Teaching/Special Lecture**: Knowledge sharing
+
+## 🌟 Current Activities
+- 📚 **Weekly AI ArXiv** Moderator
+- 🔬 **ModuLabs Medical AI LAB** Leader
+- 💻 **Coding Pod** Moderator
+
+## 🔗 Connect with Me
+- 💼 **LinkedIn**: [sujungleeml](https://www.linkedin.com/in/sujungleeml/)
+- 🎓 **Google Scholar**: [95RaYl4AAAAJ](https://scholar.google.com/citations?user=95RaYl4AAAAJ&hl=ko)
+- 📅 **Available for**: Friday evening meetups or occasional Sunday brunch
+
+## 🎯 Tech Focus Areas
+- 🏥 **Medical AI & Medical Informatics**
+- 💻 **Vibe Coding/Context Engineering**
+- 🤖 **AI Modeling**
+- 📊 **Clinical Data Analysis**
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+*"Building a better world at the intersection of healthcare and AI"* ✨
 
 <!--
 **sujungleeml/sujungleeml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
