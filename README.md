@@ -7,7 +7,7 @@
 - 💼 **Side Role**: Lab Leader at ModuLabs Medical AI LAB
 - 💼 **Previous Role**: RN (Registered Nurse), Research Nurse, Clinical Trial DMA(DBA)
 - 🎓 **Education**: Nursing BS + MBA
-- 🔬 **Current**: Medical AI Research at University (4+ years)
+- 🔬 **Current**: Medical AI Research at College of Medicine, The Catholic University Korea (4+ years)
 - 📚 **PhD**: Will pursue when I feel like it ✨
 - 🧬 **MBTI**: ENTJ
 
